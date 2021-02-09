@@ -10,5 +10,10 @@ namespace Wavegamer.TransformEx
 		{
 			return tra.localPosition.ToString();
 		}
+
+		public static string TranslocalScaleToString(this Transform tra)
+		{
+			return tra.localScale.ToString();
+		}
 	}
 }
