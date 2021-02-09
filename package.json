@@ -1,11 +1,21 @@
 {
   "name": "com.wavegamer.transformex",
-  "displayName": "Wavegamer.TransformEx",
+  "displayName": "Wavegamer TransformEx",
   "version": "0.0.1",
-  "unity": "2019.4.9",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
   "description": "测试使用自定义插件。",
-  "keywords": [ "Wavegamer","RAM", "ET", "Framework" ],
+  "keywords": [
+    "Wavegamer",
+    "RAM",
+    "ET",
+    "Framework"
+  ],
   "category": "Script",
-  "dependencies": {
+  "dependencies": {},
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
   }
 }
