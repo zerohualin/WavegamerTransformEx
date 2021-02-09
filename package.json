@@ -1,7 +1,7 @@
 {
   "name": "com.wavegamer.transformex",
   "displayName": "Wavegamer.TransformEx",
-  "version": "6.0.1",
+  "version": "0.0.1",
   "unity": "2019.4.9",
   "description": "测试使用自定义插件。",
   "keywords": [ "Wavegamer","RAM", "ET", "Framework" ],
